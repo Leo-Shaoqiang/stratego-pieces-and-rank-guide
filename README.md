@@ -2,8 +2,8 @@
 
 Interactive guide to all 12 classic Stratego pieces, rank comparison (Classic 1-10 vs Modern 10-1), piece counts, movement limits, and combat matchup interactions.
 
-🔗 **Official Piece Guide**: [stratego pieces](https://strategocheatsheet.com/pieces)  
-🔗 **Live Combat Calculator**: [Stratego Battle Judge](https://strategocheatsheet.com/)
+🔗 **Official Piece Guide**: [stratego pieces](https://strategocheatsheets.com/pieces)  
+🔗 **Live Combat Calculator**: [Stratego Battle Judge](https://strategocheatsheets.com/)
 
 ---
 
